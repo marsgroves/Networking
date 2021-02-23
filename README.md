@@ -1,8 +1,7 @@
 # Networking
 Computer Networking lessons.
 
-
-Open system: 
+Open system
 A system which is connected to the network and is ready for communication. 
 
 Closed system: 
