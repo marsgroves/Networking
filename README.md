@@ -22,3 +22,4 @@ While TCP/IP is the newer model, the Open Systems Interconnection (OSI) model is
 4. Transport (e.g. TCP, UDP, port numbers)
 5. Session (e.g. SYN/ACK)
 6. Presentation (e.g. encryption, ASCII, PNG, MIDI)
+7. 
