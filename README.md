@@ -23,3 +23,5 @@ While TCP/IP is the newer model, the Open Systems Interconnection (OSI) model is
 5. Session (e.g. SYN/ACK)
 6. Presentation (e.g. encryption, ASCII, PNG, MIDI)
 7. Application (e.g. SNMP, HTTP, FTP)
+
+People have come up with tons of mnemonic devices to memorize the OSI network layers. One popular mnemonic, starting with Layer 7, is “All People Seem To Need Data Processing.” But one that I’m partial to, which starts with Layer 1, is “Please Do Not Throw Sausage Pizza Away.”
