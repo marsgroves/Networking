@@ -13,3 +13,4 @@ An interconnection of multiple devices, also known as hosts, that are connected 
 Network Topology:
 The layout arrangement of the different devices in a network. Common examples include: Bus, Star, Mesh, Ring, and Daisy chain. 
  
+What are the network layers?
