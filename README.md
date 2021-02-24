@@ -28,4 +28,4 @@ People have come up with tons of mnemonic devices to memorize the OSI network la
 
 The TCP/IP model is a more concise framework, with only 4 layers:
 
-1. 
+1. Network Access (or Link)
