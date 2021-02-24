@@ -27,3 +27,5 @@ While TCP/IP is the newer model, the Open Systems Interconnection (OSI) model is
 People have come up with tons of mnemonic devices to memorize the OSI network layers. One popular mnemonic, starting with Layer 7, is “All People Seem To Need Data Processing.” But one that I’m partial to, which starts with Layer 1, is “Please Do Not Throw Sausage Pizza Away.”
 
 The TCP/IP model is a more concise framework, with only 4 layers:
+
+1. 
