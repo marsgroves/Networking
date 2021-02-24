@@ -18,3 +18,4 @@ While TCP/IP is the newer model, the Open Systems Interconnection (OSI) model is
 
 1. Physical (e.g. cable, RJ45)
 2. Data Link (e.g. MAC, switches)
+3. Network (e.g. IP, routers)
