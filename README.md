@@ -41,3 +41,4 @@ OSI Model, Layer 7, supports application and end-user processes. Communication p
 
 PRESENTATION (LAYER 6)
 
+This layer provides independence from differences in data representation (e.g., encryption) by translating from application to network format, and vice versa. 
