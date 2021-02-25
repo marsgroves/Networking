@@ -48,3 +48,4 @@ This layer provides independence from differences in data representation (e.g., 
 <i>Layer 6 Presentation examples include encryption, ASCII, EBCDIC, TIFF, GIF, PICT, JPEG, MPEG, MIDI.</i>
 
 SESSION (LAYER 5)
+This layer establishes, manages and terminates connections between applications.
