@@ -48,4 +48,7 @@ This layer provides independence from differences in data representation (e.g., 
 <i>Layer 6 Presentation examples include encryption, ASCII, EBCDIC, TIFF, GIF, PICT, JPEG, MPEG, MIDI.</i>
 
 SESSION (LAYER 5)
+
 This layer establishes, manages and terminates connections between applications. The session layer sets up, coordinates, and terminates conversations, exchanges, and dialogues between the applications at each end. It deals with session and connection coordination.
+
+<i>Layer 5 Session examples include NFS, NetBios names, RPC, SQL.</i>
