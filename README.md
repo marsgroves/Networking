@@ -34,3 +34,5 @@ The TCP/IP model is a more concise framework, with only 4 layers:
 4. Application (or Process)
 
 One mnemonic device for the TCP/IP model is “Armadillos Take In New Ants.”
+
+APPLICATION (LAYER 7)
