@@ -58,3 +58,5 @@ TRANSPORT (LAYER 4)
 OSI Model, Layer 4, provides transparent transfer of data between end systems, or hosts, and is responsible for end-to-end error recovery and flow control. It ensures complete data transfer.
 
 <i>Layer 4 Transport examples include SPX, TCP, UDP.</i>
+
+NETWORK (LAYER 3)
