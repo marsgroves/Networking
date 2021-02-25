@@ -52,3 +52,7 @@ SESSION (LAYER 5)
 This layer establishes, manages and terminates connections between applications. The session layer sets up, coordinates, and terminates conversations, exchanges, and dialogues between the applications at each end. It deals with session and connection coordination.
 
 <i>Layer 5 Session examples include NFS, NetBios names, RPC, SQL.</i>
+
+TRANSPORT (LAYER 4)
+
+OSI Model, Layer 4, provides transparent transfer of data between end systems, or hosts, and is responsible for end-to-end error recovery and flow control.
