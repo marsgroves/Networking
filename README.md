@@ -60,3 +60,4 @@ OSI Model, Layer 4, provides transparent transfer of data between end systems, o
 <i>Layer 4 Transport examples include SPX, TCP, UDP.</i>
 
 NETWORK (LAYER 3)
+Layer 3 provides switching and routing technologies, creating logical paths, known as virtual circuits, for transmitting data from node to node.
