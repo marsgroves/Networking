@@ -38,3 +38,6 @@ One mnemonic device for the TCP/IP model is “Armadillos Take In New Ants.”
 APPLICATION (LAYER 7)
 
 OSI Model, Layer 7, supports application and end-user processes. Communication partners are identified, quality of service is identified, user authentication and privacy are considered, and any constraints on data syntax are identified. Everything at this layer is application-specific. Everything at this layer is application-specific. This layer provides application services for file transfers, e-mail, and other network software services. Telnet and FTP are applications that exist entirely in the application level. Tiered application architectures are part of this layer.
+
+PRESENTATION (LAYER 6)
+
