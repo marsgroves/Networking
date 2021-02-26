@@ -70,3 +70,5 @@ Layer 3 provides switching and routing technologies, creating logical paths, kno
 <i>Layer 3 Network examples include AppleTalk DDP, IP, IPX.</i>
 
 DATA LINK (LAYER 2)
+
+At OSI Model, Layer 2, data packets are encoded and decoded into bits. 
