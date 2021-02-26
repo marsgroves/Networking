@@ -71,4 +71,4 @@ Layer 3 provides switching and routing technologies, creating logical paths, kno
 
 DATA LINK (LAYER 2)
 
-At OSI Model, Layer 2, data packets are encoded and decoded into bits.  It furnishes transmission protocol knowledge and management and handles errors in the physical layer, flow control and frame synchronization.
+At OSI Model, Layer 2, data packets are encoded and decoded into bits. It furnishes transmission protocol knowledge and management and handles errors in the physical layer, flow control and frame synchronization. The data link layer is divided into two sub layers: The Media Access Control (MAC) layer and the Logical Link Control (LLC) layer.
