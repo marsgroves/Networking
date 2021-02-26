@@ -64,3 +64,5 @@ NETWORK (LAYER 3)
 Layer 3 provides switching and routing technologies, creating logical paths, known as virtual circuits, for transmitting data from node to node. Routing and forwarding are functions of this layer, as well as addressing, internetworking, error handling, congestion control and packet sequencing.
 
 <i>Layer 3 Network examples include AppleTalk DDP, IP, IPX.</i>
+
+Layer 3 provides switching and routing technologies, creating logical paths, known as virtual circuits, for transmitting data from node to node. 
