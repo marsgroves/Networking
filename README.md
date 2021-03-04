@@ -73,6 +73,6 @@ At OSI Model, Layer 2, data packets are encoded and decoded into bits. It furnis
 
 PHYSICAL (LAYER 1)
 
-OSI Model, Layer 1 conveys the bit stream – electrical impulse, light or radio signal through the network at the electrical and mechanical level. It provides the hardware means of sending and receiving data on a carrier, including defining cables, cards and physical aspects. Fast Ethernet, RS232, and ATM are protocols with physical layer components.
+ Layer 1 conveys the bit stream – electrical impulse, light or radio signal through the network at the electrical and mechanical level. It provides the hardware means of sending and receiving data on a carrier, including defining cables, cards and physical aspects. Fast Ethernet, RS232, and ATM are protocols with physical layer components.
 
 <i>Layer 1 Physical examples include Ethernet, FDDI, B8ZS, V.35, V.24, RJ45.</i>
