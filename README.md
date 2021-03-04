@@ -65,14 +65,13 @@ Layer 3 provides switching and routing technologies, creating logical paths, kno
 
 <i>Layer 3 Network examples include AppleTalk DDP, IP, IPX.</i>
 
-
 DATA LINK (LAYER 2)
 
 At OSI Model, Layer 2, data packets are encoded and decoded into bits. It furnishes transmission protocol knowledge and management and handles errors in the physical layer, flow control and frame synchronization. The data link layer is divided into two sub layers: The Media Access Control (MAC) layer and the Logical Link Control (LLC) layer. The MAC sub layer controls how a computer on the network gains access to the data and permission to transmit it. The LLC layer controls frame synchronization, flow control and error checking.
 
 <i>Layer 2 Data Link examples include PPP, FDDI, ATM, IEEE 802.5/ 802.2, IEEE 802.3/802.2, HDLC, Frame Relay.</i>
 
-PHYSICAL (LAYER 1)
+
 
 OSI Model, Layer 1 conveys the bit stream – electrical impulse, light or radio signal through the network at the electrical and mechanical level. It provides the hardware means of sending and receiving data on a carrier, including defining cables, cards and physical aspects. Fast Ethernet, RS232, and ATM are protocols with physical layer components.
 
